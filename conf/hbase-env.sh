@@ -26,6 +26,7 @@
 
 # The java implementation to use.  Java 1.8+ required.
 # export JAVA_HOME=/usr/java/jdk1.8.0/
+export JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64
 
 # Extra Java CLASSPATH elements.  Optional.
 # export HBASE_CLASSPATH=
